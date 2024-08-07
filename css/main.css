@@ -2011,13 +2011,13 @@ fieldset[disabled] .btn-neutral.active {
 .show>.btn-neutral.dropdown-toggle:focus,
 .show>.btn-neutral.dropdown-toggle:hover {
   background-color: #FFFFFF;
-  color: #40a249;
+  color: #2CA8FF;
   box-shadow: none;
 }
 
 .btn-neutral:hover,
 .btn-neutral:focus {
-  color: #40a249;
+  color: #2CA8FF;
 }
 
 .btn-neutral:hover:not(.nav-link),
@@ -2212,7 +2212,7 @@ fieldset[disabled] .btn-link.active {
 }
 
 .form-control:focus {
-  border: 1px solid #378C3F;
+  border: 1px solid #2CA8FF;
   box-shadow: none;
   outline: 0 !important;
   color: #2c2c2c;
@@ -2220,7 +2220,7 @@ fieldset[disabled] .btn-link.active {
 
 .form-control:focus+.input-group-addon,
 .form-control:focus~.input-group-addon {
-  border: 1px solid #378C3F;
+  border: 1px solid #2CA8FF;
   border-left: none;
   background-color: transparent;
 }
@@ -5817,12 +5817,12 @@ Created using IcoMoon - icomoon.io
   }
 
   .sidebar-collapse .navbar-collapse:before {
-    background: #378C3F;
+    background: #2CA8FF;
     /* For browsers that do not support gradients */
     /* For Safari 5.1 to 6.0 */
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#378C3F 0%, #000 80%);
+    background: linear-gradient(#2CA8FF 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
