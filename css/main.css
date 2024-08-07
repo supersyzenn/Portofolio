@@ -564,15 +564,15 @@
 
 .slider.slider-primary .noUi-connect,
 .slider.slider-primary.noUi-connect {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
 }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4);
+  background-color: #2CA8FF;
 }
 
 .slider.slider-primary .noUi-handle {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
 }
 
 .slider.slider-info .noUi-connect,
@@ -651,7 +651,7 @@
 }
 
 .datepicker.datepicker-primary {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
 }
 
 .datepicker.datepicker-primary th,
@@ -661,11 +661,11 @@
 }
 
 .datepicker.datepicker-primary:after {
-  border-bottom-color: #378C3F;
+  border-bottom-color: #2CA8FF;
 }
 
 .datepicker.datepicker-primary.datepicker-orient-top:after {
-  border-top-color: #378C3F;
+  border-top-color: #2CA8FF;
 }
 
 .datepicker.datepicker-primary .dow {
@@ -696,7 +696,7 @@
 .datepicker.datepicker-primary table tr td.active.disabled div,
 .datepicker.datepicker-primary table tr td.active.disabled:hover div {
   background-color: #FFFFFF;
-  color: #378C3F;
+  color: #2CA8FF;
 }
 
 .datepicker.datepicker-primary table tr td.day:hover div,
@@ -767,7 +767,7 @@
 .datepicker.datepicker-primary table tr td span.active:hover[disabled],
 .datepicker.datepicker-primary table tr td span.active.disabled[disabled],
 .datepicker.datepicker-primary table tr td span.active.disabled:hover[disabled] {
-  color: #378C3F;
+  color: #2CA8FF;
 }
 
 .datepicker-inline {
@@ -875,7 +875,7 @@
 }
 
 .datepicker th {
-  color: #378C3F;
+  color: #2CA8FF;
 }
 
 .table-condensed>tbody>tr>td,
@@ -1082,7 +1082,7 @@
 .datepicker table tr td.active:hover div,
 .datepicker table tr td.active.disabled div,
 .datepicker table tr td.active.disabled:hover div {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
   color: #FFFFFF;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.2);
 }
@@ -1107,7 +1107,7 @@
 .datepicker table tr td.active:hover[disabled] div,
 .datepicker table tr td.active.disabled[disabled] div,
 .datepicker table tr td.active.disabled:hover[disabled] div {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
 }
 
 .datepicker table tr td.active:active,
@@ -1150,7 +1150,7 @@
 .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover {
   color: #fff;
-  background-color: #378C3F;
+  background-color: #2CA8FF;
 }
 
 .datepicker table tr td span.active:hover,
@@ -1173,7 +1173,7 @@
 .datepicker table tr td span.active:hover[disabled],
 .datepicker table tr td span.active.disabled[disabled],
 .datepicker table tr td span.active.disabled:hover[disabled] {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.2);
 }
 
@@ -1499,7 +1499,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
   color: #FFFFFF;
 }
 
@@ -1514,7 +1514,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .show>.btn-primary.dropdown-toggle,
 .show>.btn-primary.dropdown-toggle:focus,
 .show>.btn-primary.dropdown-toggle:hover {
-  background-color: #40a249;
+  background-color: #2CA8FF;
   color: #FFFFFF;
   box-shadow: none;
 }
@@ -1547,33 +1547,33 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #378C3F;
-  border-color: #378C3F;
+  background-color: #2CA8FF;
+  border-color: #2CA8FF;
 }
 
 .btn-primary.btn-simple {
-  color: #378C3F;
-  border-color: #378C3F;
+  color: #2CA8FF;
+  border-color: #2CA8FF;
 }
 
 .btn-primary.btn-simple:hover,
 .btn-primary.btn-simple:focus,
 .btn-primary.btn-simple:active {
   background-color: transparent;
-  color: #40a249;
-  border-color: #40a249;
+  color: #2CA8FF;
+  border-color: #2CA8FF;
   box-shadow: none;
 }
 
 .btn-primary.btn-link {
-  color: #378C3F;
+  color: #2CA8FF;
 }
 
 .btn-primary.btn-link:hover,
 .btn-primary.btn-link:focus,
 .btn-primary.btn-link:active {
   background-color: transparent;
-  color: #40a249;
+  color: #2CA8FF;
   text-decoration: none;
   box-shadow: none;
 }
@@ -1900,7 +1900,7 @@ fieldset[disabled] .btn-danger.active {
 
 .btn-neutral {
   background-color: #FFFFFF;
-  color: #378C3F;
+  color: #2CA8FF;
 }
 
 .btn-neutral:hover,
